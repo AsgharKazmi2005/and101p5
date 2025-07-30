@@ -13,13 +13,15 @@
 
     <TextView
         android:id="@+id/dog_breed"
+        style="@style/DogTextStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textStyle="bold"
         android:paddingTop="8dp" />
 
     <TextView
         android:id="@+id/dog_status"
+        style="@style/DogTextStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
 </LinearLayout>
