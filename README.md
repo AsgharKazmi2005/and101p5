@@ -25,7 +25,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://raw.githubusercontent.com/AsgharKazmi2005/and101p5/refs/heads/master/AND101P7.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://raw.githubusercontent.com/AsgharKazmi2005/and101p5/refs/heads/master/AND101P8.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with S2G
 
